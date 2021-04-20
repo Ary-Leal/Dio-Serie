@@ -46,7 +46,7 @@ namespace DIO.serie
             Console.ReadLine();
         }
 
-      
+      //listar
 
         private static void ListarSeries()
         {
@@ -69,7 +69,7 @@ namespace DIO.serie
                 }
             }
         }
-
+          // inserir
         private static void InserirSerie()
         {
             Console.WriteLine("Inserir nova série");
@@ -98,7 +98,7 @@ namespace DIO.serie
             repositorio.Insere(novaSerie);
 
         }
-
+                 //excluir
         private static void ExcluirSerie()
         {
             Console.Write("Digite o id de série: ");
@@ -151,11 +151,11 @@ namespace DIO.serie
             Console.WriteLine();
             Console.WriteLine("DIO Séries a seu dispor!");
             Console.WriteLine("Informe a opção desejada");
-            Console.WriteLine("1- Listar séries");
+            Console.WriteLine("1- Listar as séries");
             Console.WriteLine("2- Inserir nova série");
             Console.WriteLine("3- Atualizar série");
             Console.WriteLine("4- Excluir Série");
-            Console.WriteLine("5- Visualizar série");
+            Console.WriteLine("5- Visualizar as série");
             Console.WriteLine("C-Limpar tela");
             Console.WriteLine("X- Sair");
             Console.WriteLine();

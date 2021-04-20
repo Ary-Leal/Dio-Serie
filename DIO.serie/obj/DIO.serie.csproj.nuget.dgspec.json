@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ariosto\\Documents\\serie\\Dio.serie\\DIO.serie.csproj": {}
+    "c:\\Users\\Ariosto\\documents\\serie\\DIO.serie\\DIO.serie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ariosto\\Documents\\serie\\Dio.serie\\DIO.serie.csproj": {
+    "c:\\Users\\Ariosto\\documents\\serie\\DIO.serie\\DIO.serie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ariosto\\Documents\\serie\\Dio.serie\\DIO.serie.csproj",
+        "projectUniqueName": "c:\\Users\\Ariosto\\documents\\serie\\DIO.serie\\DIO.serie.csproj",
         "projectName": "DIO.serie",
-        "projectPath": "C:\\Users\\Ariosto\\Documents\\serie\\Dio.serie\\DIO.serie.csproj",
+        "projectPath": "c:\\Users\\Ariosto\\documents\\serie\\DIO.serie\\DIO.serie.csproj",
         "packagesPath": "C:\\Users\\Ariosto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ariosto\\Documents\\serie\\Dio.serie\\obj\\",
+        "outputPath": "c:\\Users\\Ariosto\\documents\\serie\\DIO.serie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ariosto\\AppData\\Roaming\\NuGet\\NuGet.Config",
